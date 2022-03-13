@@ -53,9 +53,13 @@
     <UnityVersion>2020.3.0f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\90.Shooting\Scripts\EnemyControl.cs" />
     <Compile Include="Assets\90.Shooting\Scripts\PlayerControl.cs" />
     <Compile Include="Assets\90.Shooting\Scripts\BulletControl.cs" />
-    <Compile Include="Assets\90.Shooting\Scripts\EnemyControl.cs" />
+    <Compile Include="Assets\90.Shooting\Scripts\DestroyAtTime.cs" />
+    <Compile Include="Assets\90.Shooting\Scripts\BackgroundControl.cs" />
+    <Compile Include="Assets\90.Shooting\Scripts\MainControl.cs" />
+    <Compile Include="Assets\90.Shooting\Scripts\VictoryControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

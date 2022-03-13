@@ -1,2 +1,10 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\asas\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0e9756049ceaaac4c954573065c7d2d9
+# Starting compiling UnityEngine.UI.dll
+D:\asas\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-073dd38c242c2054985e57251253ff7c
+# Starting compiling Unity.Timeline.dll
+D:\asas\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4be4918f6bf37874fae28e7df108685d
+# Starting compiling Unity.TextMeshPro.dll
+D:\asas\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-39b524b48ce26464697a3f97ab19c2e3
 # Starting compiling Assembly-CSharp.dll
-D:\asas\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e3670ed25f6ddc84c95c280d3ba20709
+D:\asas\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-402ebbcfb1812064baa74275989c8251
